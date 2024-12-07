@@ -1,0 +1,26 @@
+id: judge
+key: 42JGG7vNANPtH2hhf0Od4aSnLuXS86NnqsFWEn4uU2lwl1EA7cxriHavHeb6XtxTVpDzfo61a6ZFL7f0/rxpqureYnsxnLQN4PEP
+
+problem_storage_globs:
+- /home/icy_bird/problems/*
+
+
+runtime:
+  as_x64: /usr/bin/as
+  as_x86: /usr/bin/as
+  awk: /usr/bin/gawk
+  cat: /usr/bin/cat
+  g++: /usr/bin/g++
+  g++11: /usr/bin/g++
+  g++14: /usr/bin/g++
+  g++17: /usr/bin/g++
+  g++20: /usr/bin/g++
+  gcc: /usr/bin/gcc
+  gcc11: /usr/bin/gcc
+  ld_x64: /usr/bin/ld
+  ld_x86: /usr/bin/ld
+  lua: /usr/bin/lua
+  nasm: /usr/bin/nasm
+  perl: /usr/bin/perl
+  sed: /usr/bin/sed
+  tclsh: /usr/bin/tclsh
